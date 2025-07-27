@@ -2,7 +2,7 @@
 
 ### ENG
 
-It's just test page
+It's just a test page
 
 ### RU
 
